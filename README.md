@@ -3,7 +3,7 @@
 <br>
 Página de login simples usando HTML,CSS e um script embutido para teste de gereciamento de login e senha,com propriedades display flex.
 <br><br>
-*Imagem do Projeto*
+*Imagem do Projeto:*
 ![](imagens/imagem-projlogin.png)
 <br><br>
 
