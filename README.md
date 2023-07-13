@@ -1,7 +1,7 @@
 # Tela-de-login
 --
 <br>
-Página de login simples usando HTML,CSS e um script embutido para teste de gereciamento de login e senha,com propriedades display flex.
+Página de login simples usando HTML,um script embutido para teste de gereciamento de login e senha, e CSS com propriedades display flex.
 <br><br>
 *Imagem do Projeto:*
 ![](imagens/imagem-projlogin.png)
